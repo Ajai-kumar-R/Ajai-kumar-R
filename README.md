@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Ajai Kumar
 
-<!--
-**Ajai-kumar-R/Ajai-kumar-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+* 🎓 BE Computer Science Engineering student
+* 💻 Aspiring Software Engineer
+* 🌱 Currently learning: Java, Python, SQL, Spring Boot
+* 🎯 Interested in Automation & App Development
+* 🎵 Hobby: Listening to music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+
+* Java | Python | Flutter
+* HTML | CSS | Basics of SQL
+* Problem Solving & Communication
+
+### 📌 Projects
+
+* **SOS Alert App** – Emergency messaging system
+* **Plastic Free Guide Mapper** – Eco awareness app
+* **Product Expiry Tracker** – Notification-based tracker
+
+### 📫 Connect With Me
+
+* LinkedIn: [https://www.linkedin.com/in/ajai-kumar-r-b1956b327](https://www.linkedin.com/in/ajai-kumar-r-b1956b327)
+* Location: Gudalur, The Nilgiris
+
+⭐ *Keep learning, keep building!*
